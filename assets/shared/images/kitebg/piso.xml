@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="halloween_bg.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Símbolo 90000" x="0" y="0" width="3094" height="889" frameX="0" frameY="-1" frameWidth="3094" frameHeight="890"/>
+	<SubTexture name="Símbolo 90001" x="0" y="0" width="3094" height="889" frameX="0" frameY="-1" frameWidth="3094" frameHeight="890"/>
+	<SubTexture name="Símbolo 90002" x="0" y="889" width="3094" height="890"/>
+	<SubTexture name="Símbolo 90003" x="0" y="889" width="3094" height="890"/>
+	<SubTexture name="Símbolo 90004" x="0" y="1779" width="3094" height="889" frameX="0" frameY="-1" frameWidth="3094" frameHeight="890"/>
+	<SubTexture name="Símbolo 90005" x="0" y="1779" width="3094" height="889" frameX="0" frameY="-1" frameWidth="3094" frameHeight="890"/>
+</TextureAtlas>

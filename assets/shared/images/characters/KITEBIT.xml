@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="KITEBIT.png"><SubTexture name="KITEBIT KITE IDLE0000" x="118" y="0" width="27" height="38" frameX="-11" frameY="-6" frameWidth="43" frameHeight="44" />
+<SubTexture name="KITEBIT KITE IDLE0001" x="30" y="43" width="30" height="39" frameX="-8" frameY="-5" frameWidth="43" frameHeight="44" />
+<SubTexture name="KITEBIT KITE IDLE0002" x="27" y="0" width="29" height="41" frameX="-8" frameY="-3" frameWidth="43" frameHeight="44" />
+<SubTexture name="KITEBIT KITE IDLE0003" x="0" y="43" width="30" height="40" frameX="-7" frameY="-4" frameWidth="43" frameHeight="44" />
+<SubTexture name="KITEBIT KITE IDLE0004" x="0" y="43" width="30" height="40" frameX="-7" frameY="-4" frameWidth="43" frameHeight="44" />
+<SubTexture name="KITEBIT KITE RIGHT0000" x="0" y="83" width="30" height="36" frameX="-13" frameY="-8" frameWidth="43" frameHeight="44" />
+<SubTexture name="KITEBIT KITE RIGHT0001" x="30" y="83" width="29" height="36" frameX="-12" frameY="-8" frameWidth="43" frameHeight="44" />
+<SubTexture name="KITEBIT KITE UP0000" x="0" y="0" width="27" height="43" frameX="-7" frameY="-1" frameWidth="43" frameHeight="44" />
+<SubTexture name="KITEBIT KITE UP0001" x="56" y="0" width="29" height="41" frameX="-7" frameY="-3" frameWidth="43" frameHeight="44" />
+<SubTexture name="KITEBIT KITE DOWN0000" x="88" y="83" width="31" height="33" frameX="-8" frameY="-11" frameWidth="43" frameHeight="44" />
+<SubTexture name="KITEBIT KITE DOWN0001" x="59" y="83" width="29" height="35" frameX="-9" frameY="-9" frameWidth="43" frameHeight="44" />
+<SubTexture name="KITEBIT KITE LEFT0000" x="85" y="0" width="33" height="39" frameX="-2" frameY="-5" frameWidth="43" frameHeight="44" />
+<SubTexture name="KITEBIT KITE LEFT0001" x="85" y="39" width="33" height="39" frameX="-4" frameY="-5" frameWidth="43" frameHeight="44" />
+</TextureAtlas>

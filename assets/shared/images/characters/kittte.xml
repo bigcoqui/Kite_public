@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kittte.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Kite left0000" x="0" y="0" width="675" height="770" frameX="0" frameY="0" frameWidth="678" frameHeight="770"/>
+	<SubTexture name="Kite left0001" x="0" y="0" width="675" height="770" frameX="0" frameY="0" frameWidth="678" frameHeight="770"/>
+	<SubTexture name="Kite left0002" x="675" y="0" width="662" height="760" frameX="-16" frameY="-10" frameWidth="678" frameHeight="770"/>
+	<SubTexture name="Kite left0003" x="675" y="0" width="662" height="760" frameX="-16" frameY="-10" frameWidth="678" frameHeight="770"/>
+	<SubTexture name="Kite left0004" x="1337" y="0" width="657" height="756" frameX="-21" frameY="-14" frameWidth="678" frameHeight="770"/>
+	<SubTexture name="Kite left0005" x="1337" y="0" width="657" height="756" frameX="-21" frameY="-14" frameWidth="678" frameHeight="770"/>
+	<SubTexture name="Kite left0006" x="1994" y="0" width="659" height="758" frameX="-19" frameY="-12" frameWidth="678" frameHeight="770"/>
+	<SubTexture name="Kite left0007" x="1994" y="0" width="659" height="758" frameX="-19" frameY="-12" frameWidth="678" frameHeight="770"/>
+	<SubTexture name="idle kite0000" x="2653" y="0" width="533" height="767" frameX="-2" frameY="-31" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="idle kite0001" x="2653" y="0" width="533" height="767" frameX="-2" frameY="-31" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="idle kite0002" x="3186" y="0" width="530" height="777" frameX="0" frameY="-20" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="idle kite0003" x="3186" y="0" width="530" height="777" frameX="0" frameY="-20" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="idle kite0004" x="0" y="777" width="520" height="783" frameX="-6" frameY="-13" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="idle kite0005" x="0" y="777" width="520" height="783" frameX="-6" frameY="-13" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="idle kite0006" x="520" y="777" width="516" height="785" frameX="-8" frameY="-10" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="idle kite0007" x="520" y="777" width="516" height="785" frameX="-8" frameY="-10" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="idle kite0008" x="1036" y="777" width="516" height="786" frameX="-8" frameY="-10" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="idle kite0009" x="1036" y="777" width="516" height="786" frameX="-8" frameY="-10" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="idle kite0010" x="1552" y="777" width="499" height="796" frameX="-16" frameY="0" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="idle kite0011" x="1552" y="777" width="499" height="796" frameX="-16" frameY="0" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="idle kite0012" x="2051" y="777" width="509" height="796" frameX="-9" frameY="0" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="idle kite0013" x="2051" y="777" width="509" height="796" frameX="-9" frameY="0" frameWidth="535" frameHeight="798"/>
+	<SubTexture name="kite down0000" x="2560" y="777" width="516" height="669" frameX="0" frameY="-11" frameWidth="518" frameHeight="680"/>
+	<SubTexture name="kite down0001" x="2560" y="777" width="516" height="669" frameX="0" frameY="-11" frameWidth="518" frameHeight="680"/>
+	<SubTexture name="kite down0002" x="3076" y="777" width="517" height="676" frameX="-1" frameY="-3" frameWidth="518" frameHeight="680"/>
+	<SubTexture name="kite down0003" x="3076" y="777" width="517" height="676" frameX="-1" frameY="-3" frameWidth="518" frameHeight="680"/>
+	<SubTexture name="kite down0004" x="0" y="1573" width="517" height="679" frameX="-1" frameY="0" frameWidth="518" frameHeight="680"/>
+	<SubTexture name="kite down0005" x="0" y="1573" width="517" height="679" frameX="-1" frameY="0" frameWidth="518" frameHeight="680"/>
+	<SubTexture name="kite down0006" x="517" y="1573" width="517" height="675" frameX="-1" frameY="-3" frameWidth="518" frameHeight="680"/>
+	<SubTexture name="kite down0007" x="517" y="1573" width="517" height="675" frameX="-1" frameY="-3" frameWidth="518" frameHeight="680"/>
+	<SubTexture name="kite right0000" x="1034" y="1573" width="561" height="777" frameX="-3" frameY="0" frameWidth="564" frameHeight="778"/>
+	<SubTexture name="kite right0001" x="1034" y="1573" width="561" height="777" frameX="-3" frameY="0" frameWidth="564" frameHeight="778"/>
+	<SubTexture name="kite right0002" x="1595" y="1573" width="552" height="767" frameX="0" frameY="-11" frameWidth="564" frameHeight="778"/>
+	<SubTexture name="kite right0003" x="1595" y="1573" width="552" height="767" frameX="0" frameY="-11" frameWidth="564" frameHeight="778"/>
+	<SubTexture name="kite right0004" x="2147" y="1573" width="548" height="763" frameX="0" frameY="-15" frameWidth="564" frameHeight="778"/>
+	<SubTexture name="kite right0005" x="2147" y="1573" width="548" height="763" frameX="0" frameY="-15" frameWidth="564" frameHeight="778"/>
+	<SubTexture name="kite right0006" x="2695" y="1573" width="548" height="764" frameX="0" frameY="-14" frameWidth="564" frameHeight="778"/>
+	<SubTexture name="kite right0007" x="2695" y="1573" width="548" height="764" frameX="0" frameY="-14" frameWidth="564" frameHeight="778"/>
+	<SubTexture name="kite up0000" x="3243" y="1573" width="493" height="825" frameX="0" frameY="0" frameWidth="499" frameHeight="830"/>
+	<SubTexture name="kite up0001" x="3243" y="1573" width="493" height="825" frameX="0" frameY="0" frameWidth="499" frameHeight="830"/>
+	<SubTexture name="kite up0002" x="0" y="2398" width="497" height="821" frameX="-1" frameY="-8" frameWidth="499" frameHeight="830"/>
+	<SubTexture name="kite up0003" x="0" y="2398" width="497" height="821" frameX="-1" frameY="-8" frameWidth="499" frameHeight="830"/>
+	<SubTexture name="kite up0004" x="497" y="2398" width="497" height="820" frameX="-2" frameY="-10" frameWidth="499" frameHeight="830"/>
+	<SubTexture name="kite up0005" x="497" y="2398" width="497" height="820" frameX="-2" frameY="-10" frameWidth="499" frameHeight="830"/>
+	<SubTexture name="kite up0006" x="994" y="2398" width="498" height="821" frameX="-1" frameY="-9" frameWidth="499" frameHeight="830"/>
+	<SubTexture name="kite up0007" x="994" y="2398" width="498" height="821" frameX="-1" frameY="-9" frameWidth="499" frameHeight="830"/>
+</TextureAtlas>
