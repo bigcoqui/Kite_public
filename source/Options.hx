@@ -72,7 +72,25 @@ class Option
 	public function right():Bool { return throw "stub!"; }
 }
 
+class AndroidControls extends Option
+{
+	public function new()
+	{
+		super();
+	}
 
+	public override function press():Bool
+	{
+		trace("switch");
+		FlxG.switchState(new android.AndroidControlsMenu());
+		return false;
+	}
+
+	private override function updateDisplay():String
+	{
+		return "Android Controls";
+	}
+}
 
 class DFJKOption extends Option
 {
